@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shanavaas-j-0449901ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajendhiran" height="30" width="40" /></a>
-<a href="t.me/Techshana" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/telegram-logo-969.png" alt="shanavaasj" height="30" width="40" /></a>
+<a href="https://t.me/Techshana" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/telegram-logo-969.png" alt="shanavaasj" height="30" width="40" /></a>
 <a href="shanavaas2001@gmail.com" target="blank"><img align="center" src="https://projectpeta.s3.jp-tok.cloud-object-storage.appdomain.cloud/gmail.png" alt="shanavaasj" height="30" width="40" /></a>
 </p>
 
